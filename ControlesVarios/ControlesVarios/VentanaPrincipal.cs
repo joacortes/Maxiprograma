@@ -14,6 +14,7 @@ namespace ControlesVarios
     {
         public VentanaPrincipal()
         {
+            // Meto un comentario para subir a github como cambio
             InitializeComponent();
         }
 
